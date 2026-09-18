@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Validación de Productos Cartográficos Manual
+  structure:
+    - type: space
+      key: space-1
+      title: Interno
+      path: docs
+      default: true
+      content:
+        directory: ./docs
+        language: es
